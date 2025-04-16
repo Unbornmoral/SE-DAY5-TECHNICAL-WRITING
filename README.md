@@ -1,4 +1,4 @@
-# SE-DAY5-TECHNICAL-WRITING
+# Software Engineering-DAY5-TECHNICAL-WRITING
 TECHNICAL WRITING ASSIGNMENT
 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
 Tailoring your approach ensures that the audience stays engaged, comprehends the material, and feels confident in applying it. Mismatching your delivery—like overwhelming a beginner with jargon or giving oversimplified explanations to experts—can lead to confusion and disengagement.
